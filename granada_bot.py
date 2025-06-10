@@ -1,4 +1,4 @@
-# app.py
+# granada_bot.py
 from flask import Flask, request, jsonify
 import threading
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
